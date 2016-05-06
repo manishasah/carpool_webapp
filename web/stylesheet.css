@@ -1,0 +1,61 @@
+#header {
+    /*height: 7em;*/
+    width: 50%;
+    background-color: white;
+    border-radius: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    /*margin-top: 0.5em;*/
+    color: lightseagreen;
+    font-size: 5.5em;
+    text-align: center;
+    font-weight: bolder;
+}
+
+#header a {
+    text-decoration: none;
+    color: lightseagreen;
+}
+
+.options {
+    height: 12em;
+    width: 24em;
+    margin-left: 14.5em;
+    border-color: lightseagreen;
+    margin-top: 5em;
+}
+
+.subhead {
+    font-size: 2em;
+    font-family: Arial;
+    padding-top: 2em;
+}
+
+.form-group {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.submit {
+    padding-top: 1em;
+}
+
+#confirm {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    font-family: Arial;
+    /*color: lightseagreen;*/
+    font-size: 2em;
+    text-align: justify;
+}
+
+.table {
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 2em;
+    table-layout: fixed;
+}
+
+
